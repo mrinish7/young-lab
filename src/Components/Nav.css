@@ -1,0 +1,15 @@
+.main-container{
+    position: absolute;
+    width: 1202px;
+    height: 35px;
+    left: 120px;
+    top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-list{
+    padding: 10px;
+    display: inline-block;
+    list-style: none;
+}
